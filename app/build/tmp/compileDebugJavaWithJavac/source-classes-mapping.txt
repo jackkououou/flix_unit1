@@ -1,0 +1,2 @@
+com/example/flix_unit1/BuildConfig.java
+ com.example.flix_unit1.BuildConfig
