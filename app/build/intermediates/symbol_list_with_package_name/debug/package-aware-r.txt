@@ -2732,6 +2732,7 @@ id item2
 id item3
 id item4
 id item_touch_helper_previous_elevation
+id ivBackground
 id ivPoster
 id jumpToEnd
 id jumpToStart
@@ -2963,6 +2964,8 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvLandOverview
+id tvLandTitle
 id tvOverview
 id tvTitle
 id unchecked

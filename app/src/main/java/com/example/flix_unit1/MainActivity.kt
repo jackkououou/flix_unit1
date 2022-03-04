@@ -13,6 +13,7 @@ import org.json.JSONException
 private const val TAG = "MainActivity"
 private const val NOW_PLAYING_URL = "https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed"
 
+
 class MainActivity : AppCompatActivity() {
 
     private val movies = mutableListOf<Movie>()

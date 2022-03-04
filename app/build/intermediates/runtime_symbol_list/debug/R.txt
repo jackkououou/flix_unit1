@@ -2731,6 +2731,7 @@ int id item2 0x7f0800de
 int id item3 0x7f0800df
 int id item4 0x7f0800e0
 int id item_touch_helper_previous_elevation 0x7f0800e1
+int id ivBackground 0x7f0801e1
 int id ivPoster 0x7f0800e2
 int id jumpToEnd 0x7f0800e3
 int id jumpToStart 0x7f0800e4
@@ -2962,6 +2963,8 @@ int id transition_position 0x7f0801c5
 int id transition_scene_layoutid_cache 0x7f0801c6
 int id transition_transform 0x7f0801c7
 int id triangle 0x7f0801c8
+int id tvLandOverview 0x7f0801e2
+int id tvLandTitle 0x7f0801e3
 int id tvOverview 0x7f0801c9
 int id tvTitle 0x7f0801ca
 int id unchecked 0x7f0801cb

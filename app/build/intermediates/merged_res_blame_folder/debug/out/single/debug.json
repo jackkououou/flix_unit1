@@ -24,6 +24,10 @@
         "source": "C:\\Users\\kouyo\\AndroidStudioProjects\\codepath\\flix_unit1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\kouyo\\AndroidStudioProjects\\codepath\\flix_unit1\\app\\build\\intermediates\\merged_res\\debug\\layout-land_item_movie.xml.flat",
+        "source": "C:\\Users\\kouyo\\AndroidStudioProjects\\codepath\\flix_unit1\\app\\src\\main\\res\\layout-land\\item_movie.xml"
+    },
+    {
         "merged": "C:\\Users\\kouyo\\AndroidStudioProjects\\codepath\\flix_unit1\\app\\build\\intermediates\\merged_res\\debug\\layout_item_movie.xml.flat",
         "source": "C:\\Users\\kouyo\\AndroidStudioProjects\\codepath\\flix_unit1\\app\\src\\main\\res\\layout\\item_movie.xml"
     },
@@ -62,5 +66,9 @@
     {
         "merged": "C:\\Users\\kouyo\\AndroidStudioProjects\\codepath\\flix_unit1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\kouyo\\AndroidStudioProjects\\codepath\\flix_unit1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kouyo\\AndroidStudioProjects\\codepath\\flix_unit1\\app\\build\\intermediates\\merged_res\\debug\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\kouyo\\AndroidStudioProjects\\codepath\\flix_unit1\\app\\src\\main\\res\\layout-land\\activity_main.xml"
     }
 ]
