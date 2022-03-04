@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\kouyo\\AndroidStudioProjects\\flix_unit1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
+            "outputFile": "C:\\Users\\kouyo\\AndroidStudioProjects\\codepath\\flix_unit1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
             "map": [
                 {
                     "source": "C:\\Users\\kouyo\\.gradle\\caches\\transforms-3\\39dc0d6c9b4b207637dd7f79cac9d989\\transformed\\material-1.5.0\\res\\values-ky\\values-ky.xml",
