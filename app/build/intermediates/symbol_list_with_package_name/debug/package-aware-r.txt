@@ -2826,6 +2826,7 @@ id onInterceptTouchReturnSwipe
 id outline
 id outward
 id overshoot
+id pTrailer
 id packed
 id parallax
 id parent
@@ -2844,6 +2845,7 @@ id progress_circular
 id progress_horizontal
 id radio
 id ratio
+id rbVoteAverage
 id rectangles
 id reverseSawtooth
 id right
@@ -3075,6 +3077,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_detail
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item

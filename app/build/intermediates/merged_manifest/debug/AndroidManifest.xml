@@ -10,6 +10,12 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
 
+    <queries>
+        <intent>
+            <action android:name="com.google.android.youtube.api.service.START" />
+        </intent>
+    </queries>
+
     <application
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -21,6 +27,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Flix_unit1" >
+        <activity
+            android:name="com.example.flix_unit1.DetailActivity"
+            android:exported="true" />
         <activity
             android:name="com.example.flix_unit1.MainActivity"
             android:exported="true" >
